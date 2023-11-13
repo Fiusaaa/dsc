@@ -21,3 +21,4 @@ git config --global user.name "Fiusaa"
 git commit notas.txt -m "atualizado"  
 git push
 git pull
+_________________________________
