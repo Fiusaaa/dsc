@@ -14,7 +14,7 @@ https://flask.palletsprojects.com/en/3.0.x/#
 		install -r requiriments.txt
 
 
-------------------------------git
+_________________________________git
 git clone https://github.com/Fiusaaa/dsc.git
 git config --global user.email "andre.fiusa99@gmail.com"
 git config --global user.name "Fiusaa"
