@@ -1,0 +1,13 @@
+#SERVIDOR SEGURO FIUSA
+#AUTHOR: ANDRÉ GUISSONI FIUSA
+#REFERÊNCIA:
+https://flask.palletsprojects.com/en/3.0.x/#
+--version  3.0
+
+1 - preparação de ambiente
+	1.1  - criar ambiente virtual (python -m virtualenv venv)
+		1.1.1 ativando venv\Scripts\activate
+		1.1.2 desativando venv\Scripts\deactivate
+	1.2 - instalando o flask (pip install Flask)
+		pip freeze>requiriments.txt
+		install -r requiriments.txt
