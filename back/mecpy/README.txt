@@ -7,5 +7,5 @@
 
 salvamento de pacotes : pip freeze>requirements.txt
 instalar pacotes salvos : pip install -r requirements.txt
-inicializando banco de dados : $ flask --app mecpy init-db
+inicializando banco de dados : flask --app mecpy init-db
 rodando com debug: flask --app mecpy run --debug
